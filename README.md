@@ -53,9 +53,11 @@ This approach was also presented at **Falling Walls Lab Türkiye**.
 
 ## Private LLM architecture
 
-The platform also includes a **local, private GPT/LLM layer** designed to operate without sending company data outside the environment.
+The platform includes a **local, private LLM layer** designed to operate without sending company data outside the environment.
 
-This supports explainable interaction, scenario evaluation, and a more secure enterprise AI architecture for planning-intensive operations.
+From the current implementation perspective, the assistant first checks for a **local LM Studio API endpoint** and, when needed, falls back to a **local GGUF model loaded through `llama_cpp`**, using a **Llama 3-compatible chat format**.
+
+This allows natural-language interaction, technical evaluation, and scenario-oriented assistant behavior inside a closed-loop enterprise environment.
 
 ## Natural-language decision layer
 
