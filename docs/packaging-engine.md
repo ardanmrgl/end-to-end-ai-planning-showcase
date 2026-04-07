@@ -27,8 +27,8 @@ From the current implementation, the engine evaluates packaging jobs by using in
 
 The implementation includes plant-style rules rather than abstract scheduling only. Examples include:
 
-- `Kuvet-4` operates with a larger daily-hour profile than most other lines.
-- `Kuvet-1` can be discouraged or restricted unless `Kuvet-4` is near full.
+- Some lines are modeled with a larger daily-hour profile than others.
+- Secondary or fallback lines can be discouraged or conditionally restricted unless preferred lines are sufficiently utilized.
 - Some process-delay logic is line-sensitive.
 - Two-stage flows are explicitly modeled and monitored.
 - Waiting time and split behavior can trigger alerts.
