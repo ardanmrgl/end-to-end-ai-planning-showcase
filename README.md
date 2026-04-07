@@ -84,9 +84,14 @@ This makes the system queryable, reviewable, and steerable through natural langu
 
 ## Technical notes
 
+- [Technical Architecture](docs/technical-architecture.md)
+- [Packaging Engine](docs/packaging-engine.md)
+- [Runtime Configuration](docs/runtime-configuration.md)
+- [Constraint Library](docs/constraint-library.md)
 - [System Overview](docs/system-overview.md)
 - [Entropic Bayes Module](docs/entropic-bayes.md)
 - [AI Assistant](docs/ai-assistant.md)
+- [Repository Scope](docs/repo-scope.md)
 
 ## Development approach
 
