@@ -57,6 +57,29 @@ The platform also includes a **local, private GPT/LLM layer** designed to operat
 
 This supports explainable interaction, scenario evaluation, and a more secure enterprise AI architecture for planning-intensive operations.
 
+## Natural-language decision layer
+
+The AI Assistant is not positioned as a generic chatbot.
+It acts as a natural-language interface to the planning engine and to the operational control state of the application.
+
+It can answer and support interactions such as:
+
+- Why was product A planned instead of product B?
+- Why was a product split across multiple days?
+- Which products are critical this week?
+- What happens if additional tonnage is introduced on a specific day?
+- What do the current notifications mean, and what decision should be recorded?
+- What is the current packaging authority or line-control status?
+
+The same layer can also support operational control actions in packaging workflows, such as line closure or re-opening decisions and staff redirection between lines.
+
+## Explainability by design
+
+The explanation layer is backed by runtime decision traces rather than detached text generation.
+
+The application synchronizes planning outputs, rejection and placement reasons, notification memory, weekly notes, and packaging-control context into the assistant layer.
+This makes the system queryable, reviewable, and steerable through natural language.
+
 ## Development approach
 
 - Developed fully in-house
