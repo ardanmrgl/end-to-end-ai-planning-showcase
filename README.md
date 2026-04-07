@@ -82,6 +82,12 @@ The explanation layer is backed by runtime decision traces rather than detached 
 The application synchronizes planning outputs, rejection and placement reasons, notification memory, weekly notes, and packaging-control context into the assistant layer.
 This makes the system queryable, reviewable, and steerable through natural language.
 
+## Technical notes
+
+- [System Overview](docs/system-overview.md)
+- [Entropic Bayes Module](docs/entropic-bayes.md)
+- [AI Assistant](docs/ai-assistant.md)
+
 ## Development approach
 
 - Developed fully in-house
