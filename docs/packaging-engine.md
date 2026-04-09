@@ -6,6 +6,10 @@ The packaging engine is the downstream execution filter of the planning stack.
 
 Its job is not only to assign packaging work to lines, but to determine whether the upstream production plan can actually survive line reality, staffing limits, route structure, and material constraints.
 
+## Interface Example
+
+![Packaging Plan](<assets/screenshots/packaging plan.png>)
+
 ## Planning model
 
 The packaging layer is built around a MILP-style planning approach with configurable operational parameters.

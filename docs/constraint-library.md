@@ -18,6 +18,10 @@ The current implementation includes structured constraints around:
 - revision triggers
 - penalty-based trade-offs
 
+## Scenario Example
+
+![What-If Scenarios](<assets/screenshots/what if scenarios.png>)
+
 ## Examples of rule types
 
 Examples of encoded rule types include:

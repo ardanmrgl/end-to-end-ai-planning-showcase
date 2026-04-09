@@ -6,6 +6,12 @@ The platform is not structured as a fixed demo application.
 
 It contains runtime-adjustable layers that allow planning behavior, packaging constraints, notification memory, and assistant context to evolve without rewriting the core engine.
 
+## Notification and Runtime Control Examples
+
+![Instant Notifications](<assets/screenshots/instant notifications.png>)
+
+![Overtime Suggestions](<assets/screenshots/overtime suggestions.png>)
+
 ## Embedded rule settings
 
 The GUI persists embedded rule settings through an internal store rather than relying only on hardcoded defaults.

@@ -43,6 +43,20 @@ The GUI combines multiple decision layers in a single workflow:
 - Notifications
 - AI Assistant
 
+## Interface Preview
+
+### Production Planning
+
+![Production Plan](<docs/assets/screenshots/production plan.png>)
+
+### Packaging Planning
+
+![Packaging Plan](<docs/assets/screenshots/packaging plan.png>)
+
+### AI Assistant
+
+![AI Assistant](<docs/assets/screenshots/ai assistant.png>)
+
 ## Entropic Bayes layer
 
 One of the platform's distinctive modules is the **Entropic Bayes** layer, positioned inside the fermentation forecasting workflow.
