@@ -6,10 +6,6 @@ The platform is designed to produce **more executable** weekly planning outputs 
 
 Rather than treating planning as a single optimization pass, the architecture combines planning, validation, revision, and explanation.
 
-## Interface Example
-
-![Production Plan](assets/screenshots/production%20plan.png)
-
 ## Main layers
 
 ### 1. GUI orchestration layer

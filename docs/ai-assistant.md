@@ -7,14 +7,6 @@ It operates as a natural-language interface to the planning engine, packaging-co
 
 Its purpose is to make the platform queryable, explainable, and steerable through natural language.
 
-## Interface Example
-
-![AI Assistant](assets/screenshots/ai%20assistant.png)
-
-## Scenario Interaction Example
-
-![What-If Scenarios](assets/screenshots/what%20if%20scenarios.png)
-
 ## What it can explain
 
 The assistant can be used to explain planning outcomes such as:

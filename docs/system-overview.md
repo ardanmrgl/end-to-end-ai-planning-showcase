@@ -15,10 +15,6 @@ It combines:
 - what-if alternatives
 - explainable decision logic
 
-## Interface Example
-
-![Quick Analysis](assets/screenshots/quick%20analysis.png)
-
 ## Why this matters
 
 In many real operations, the challenge is not generating a plan on paper.
