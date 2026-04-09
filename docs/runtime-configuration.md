@@ -8,9 +8,9 @@ It contains runtime-adjustable layers that allow planning behavior, packaging co
 
 ## Notification and Runtime Control Examples
 
-![Instant Notifications](<assets/screenshots/instant notifications.png>)
+![Instant Notifications](assets/screenshots/instant%20notifications.png)
 
-![Overtime Suggestions](<assets/screenshots/overtime suggestions.png>)
+![Overtime Suggestions](assets/screenshots/overtime%20suggestions.png)
 
 ## Embedded rule settings
 

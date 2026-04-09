@@ -9,11 +9,11 @@ Its purpose is to make the platform queryable, explainable, and steerable throug
 
 ## Interface Example
 
-![AI Assistant](<assets/screenshots/ai assistant.png>)
+![AI Assistant](assets/screenshots/ai%20assistant.png)
 
 ## Scenario Interaction Example
 
-![What-If Scenarios](<assets/screenshots/what if scenarios.png>)
+![What-If Scenarios](assets/screenshots/what%20if%20scenarios.png)
 
 ## What it can explain
 

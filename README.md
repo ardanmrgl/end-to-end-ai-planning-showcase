@@ -47,15 +47,15 @@ The GUI combines multiple decision layers in a single workflow:
 
 ### Production Planning
 
-![Production Plan](<docs/assets/screenshots/production plan.png>)
+![Production Plan](docs/assets/screenshots/production%20plan.png)
 
 ### Packaging Planning
 
-![Packaging Plan](<docs/assets/screenshots/packaging plan.png>)
+![Packaging Plan](docs/assets/screenshots/packaging%20plan.png)
 
 ### AI Assistant
 
-![AI Assistant](<docs/assets/screenshots/ai assistant.png>)
+![AI Assistant](docs/assets/screenshots/ai%20assistant.png)
 
 ## Entropic Bayes layer
 

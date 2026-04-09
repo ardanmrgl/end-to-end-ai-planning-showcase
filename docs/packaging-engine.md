@@ -8,7 +8,7 @@ Its job is not only to assign packaging work to lines, but to determine whether 
 
 ## Interface Example
 
-![Packaging Plan](<assets/screenshots/packaging plan.png>)
+![Packaging Plan](assets/screenshots/packaging%20plan.png)
 
 ## Planning model
 

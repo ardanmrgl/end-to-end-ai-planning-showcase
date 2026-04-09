@@ -20,7 +20,7 @@ The current implementation includes structured constraints around:
 
 ## Scenario Example
 
-![What-If Scenarios](<assets/screenshots/what if scenarios.png>)
+![What-If Scenarios](assets/screenshots/what%20if%20scenarios.png)
 
 ## Examples of rule types
 

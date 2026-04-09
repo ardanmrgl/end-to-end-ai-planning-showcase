@@ -8,7 +8,7 @@ Rather than treating planning as a single optimization pass, the architecture co
 
 ## Interface Example
 
-![Production Plan](<assets/screenshots/production plan.png>)
+![Production Plan](assets/screenshots/production%20plan.png)
 
 ## Main layers
 

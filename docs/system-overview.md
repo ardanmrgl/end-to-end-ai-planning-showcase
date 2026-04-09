@@ -17,7 +17,7 @@ It combines:
 
 ## Interface Example
 
-![Quick Analysis](<assets/screenshots/quick analysis.png>)
+![Quick Analysis](assets/screenshots/quick%20analysis.png)
 
 ## Why this matters
 
